@@ -1,0 +1,6 @@
+[submodule "everything-claude-code-lee"]
+	path = everything-claude-code-lee
+	url = https://github.com/hundong2/everything-claude-code-lee.git
+[submodule "claude-code-showcase"]
+	path = claude-code-showcase
+	url = https://github.com/hundong2/claude-code-showcase.git
