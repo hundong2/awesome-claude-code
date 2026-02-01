@@ -4,3 +4,9 @@
 [submodule "claude-code-showcase"]
 	path = claude-code-showcase
 	url = https://github.com/hundong2/claude-code-showcase.git
+[submodule "my-friends-claude"]
+	path = my-friends-claude
+	url = https://github.com/hundong2/my-friends-claude.git
+[submodule "awesome-agent-skills"]
+	path = awesome-agent-skills
+	url = https://github.com/hundong2/awesome-agent-skills.git
