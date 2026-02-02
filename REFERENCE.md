@@ -28,4 +28,7 @@
 
 - [zeroshot](https://github.com/covibes/zeroshot?utm_source=pytorchkr&ref=pytorchkr)  
 	- automating agent coding tools 
-	
+
+## Scientific skills 
+
+- [K-Dense](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main)
