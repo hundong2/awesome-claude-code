@@ -10,3 +10,6 @@
 [submodule "awesome-agent-skills"]
 	path = awesome-agent-skills
 	url = https://github.com/hundong2/awesome-agent-skills.git
+[submodule "oh-my-ag"]
+	path = oh-my-ag
+	url = https://github.com/hundong2/oh-my-ag.git

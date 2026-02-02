@@ -32,3 +32,8 @@
 ## Scientific skills 
 
 - [K-Dense](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main)
+
+## oh-my-ag Antigravity
+
+- [Oh-my-ag](https://github.com/hundong2/oh-my-ag.git)  
+
